@@ -4,4 +4,4 @@
 User experience focused mobile Task Warrior client.
 
 #### Icons
-Icons from [Icons8.io](icons8.io).
+Icons from [Icons8.com](icons8.com).
