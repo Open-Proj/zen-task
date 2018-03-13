@@ -1,16 +1,35 @@
+# OS and IDE files.
+.DS_Store
+*.swp
+profile
 .idea/
 .vagrant/
 .sconsign.dblite
 .svn/
 
-.DS_Store
-*.swp
-profile
+# Library files.
+/Flutter/app.flx
+/Flutter/app.zip
+/Flutter/flutter_assets/
+/Flutter/App.framework
+/Flutter/Flutter.framework
+/Flutter/Generated.xcconfig
+/ServiceDefinitions.json
 
+Pods/
+
+# Build files.
 DerivedData/
 build/
 GeneratedPluginRegistrant.h
 GeneratedPluginRegistrant.m
+
+*.moved-aside
+
+*.pyc
+*sync/
+Icon?
+.tags*
 
 *.pbxuser
 *.mode1v3
@@ -23,20 +42,3 @@ GeneratedPluginRegistrant.m
 !default.perspectivev3
 
 xcuserdata
-
-*.moved-aside
-
-*.pyc
-*sync/
-Icon?
-.tags*
-
-/Flutter/app.flx
-/Flutter/app.zip
-/Flutter/flutter_assets/
-/Flutter/App.framework
-/Flutter/Flutter.framework
-/Flutter/Generated.xcconfig
-/ServiceDefinitions.json
-
-Pods/

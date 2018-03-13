@@ -1,13 +1,15 @@
-# System and IDE files.
+# OS and IDE files.
 .DS_Store
 .atom/
 .idea
 .vscode/
 
-# Build files.
+# Library files.
 .packages
+packages
+.flutter-plugins
+
+# Build files.
 .pub/
 build/
 ios/.generated/
-packages
-.flutter-plugins

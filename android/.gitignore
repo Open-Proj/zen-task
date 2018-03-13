@@ -1,10 +1,15 @@
+# OS and IDE files.
+.DS_Store
 *.iml
-*.class
-.gradle
-/local.properties
 /.idea/workspace.xml
 /.idea/libraries
-.DS_Store
+
+# Library files.
+.gradle
+/local.properties
+
+# Build files.
+GeneratedPluginRegistrant.java
+*.class
 /build
 /captures
-GeneratedPluginRegistrant.java
