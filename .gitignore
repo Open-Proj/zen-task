@@ -1,3 +1,13 @@
-# Android studio files.
-*.iml
-.idea/
+# System and IDE files.
+.DS_Store
+.atom/
+.idea
+.vscode/
+
+# Build files.
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+.flutter-plugins
