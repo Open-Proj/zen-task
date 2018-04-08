@@ -1,7 +1,6 @@
-<img src="https://raw.githubusercontent.com/Open-Proj/zen-task/master/img/icon.png" width="60" height="60" alt="ying yang logo ontop of a check mark in a circle">
+<img src="https://raw.githubusercontent.com/Open-Proj/zen-task/master/img/icon.png" width="60" height="60" alt="zen-task yin-yang logo">
 
-# Zen Task
-User experience focused mobile Task Warrior client.
+Zen Task
+========
 
-#### Icons
-Icons from [Icons8.com](icons8.com).
+A user-experience focused [Taskwarrior](https://taskwarrior.org) client for mobile devices.
